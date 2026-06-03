@@ -13,7 +13,7 @@ Students can register, log in, and access course materials, while administrators
 ```
 AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 ├── Documentation/
-│   └── Final document.pdf
+│   └── Document.pdf
 ├── static/
 ├── templates/
 │   ├── content.html
@@ -85,7 +85,4 @@ This project showcases how web applications can be effectively deployed and scal
 
 ---
 
-## 🔗 Demo and Source Code
 
-- 🎥 [Demo Video](https://drive.google.com/file/d/1pcvLLO2FbDVWE1G6ZkyOQ-Nr4wbSDLbE/view?usp=drive_link)  
-- 🧾 [GitHub Repository](https://github.com/Gayatripatil7218/AWS-Hosted-Virtual-Classroom--and--Learning--Platform.git)
